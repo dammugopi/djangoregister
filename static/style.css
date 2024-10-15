@@ -9,7 +9,7 @@
 body{
   margin: 0;
   padding: 0;
-  background: linear-gradient(120deg,#2980b9, #8e44ad);
+  background: linear-gradient(120deg,#2980b9, #8e36b4);
   height: 100vh;
   overflow: hidden;
 }
@@ -63,7 +63,7 @@ form .txt_field{
   left: 0;
   width: 0%;
   height: 2px;
-  background: #2691d9;
+  background: #e90c0c;
   transition: .5s;
 }
 .txt_field input:focus ~ label,
