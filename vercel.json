@@ -23,6 +23,6 @@
         "src": "/(.*)",
         "dest": "AuthenticationProject/wsgi.py"
       }
-    ]
-     
+    ],
+    "outputDirectory": "static"
   }
